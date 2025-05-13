@@ -1,1 +1,0 @@
-# Gemma3_OCR_Text_Extractor_LLM
